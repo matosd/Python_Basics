@@ -30,9 +30,9 @@ Instacart Market Basket Analysis: https://www.kaggle.com/datasets/psparks/instac
 * scipy
 
 ### Folders
-* 01 Project Management
-* 02 Scripts
-* 03 Analysis & Recommendations
+* 03 Scripts
+* 04 Analysis
+* 05 Sent to Client
 
 ### Data Dictionary
 
